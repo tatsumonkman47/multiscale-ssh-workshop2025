@@ -1,6 +1,6 @@
 # Multi-scale decomposition of sea surface height snapshots using machine learning
 
-This repository contains the implementation of machine learning models for decomposing Sea Surface Height (SSH) snapshots into balanced motions (BMs) and unbalanced motions (UBMs), as described in our paper ["Multi-scale decomposition of sea surface height snapshots using machine learning"]([https://arxiv.org/abs/2409.17354](https://www.climatechange.ai/papers/neurips2024/57)).
+This repository contains the implementation of machine learning models for decomposing Sea Surface Height (SSH) snapshots into balanced motions (BMs) and unbalanced motions (UBMs), as described in our paper ["Multi-scale decomposition of sea surface height snapshots using machine learning"]([https://www.climatechange.ai/papers/neurips2024/57]).
 
 ## Overview
 
